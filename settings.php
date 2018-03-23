@@ -244,21 +244,21 @@
  *   );
  * @endcode
  */
-$databases = array (
-  'default' => 
-  array (
-    'default' => 
-    array (
-      'database' => 'drupal7',
-      'username' => 'drupal',
-      'password' => 'drupal',
-      'host' => 'localhost',
-      'port' => '',
-      'driver' => 'mysql',
-      'prefix' => '',
-    ),
-  ),
-);
+#$databases = array (
+#  'default' => 
+#  array (
+#    'default' => 
+#    array (
+#      'database' => 'drupal7',
+#      'username' => 'drupal',
+#      'password' => 'drupal',
+#      'host' => 'localhost',
+#      'port' => '',
+#      'driver' => 'mysql',
+#      'prefix' => '',
+#    ),
+#  ),
+#);
 
 /**
  * Access control for update.php script.
